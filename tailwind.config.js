@@ -12,7 +12,7 @@ export default {
         'black':'#000000',
         'white': '#ffffff',
         'purplish':'#5e5ffe',
-        'bluish':'#5455a4'
+        'redish':'#962fbf'
       }
     },
     screens: {

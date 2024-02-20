@@ -1,5 +1,5 @@
 const Images = {
-    HeroImage:new URL('./Hero.avif', import.meta.url).href,
+    HeroImage:new URL('./Hero.png', import.meta.url).href,
     ContactUs:new URL('./ContactUs.png', import.meta.url).href,
     logo:new URL('./logo.png', import.meta.url).href,
     websiteDesign:new URL('./website_design.png', import.meta.url).href,

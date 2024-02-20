@@ -6,7 +6,7 @@ import Images from "../assets/Images/images";
 
 const Footer = () => {
   return (
-<footer className="bg-bluish dark:bg-bluish border-t mt-2" style={{boxShadow:'rgba(0, 0, 0, 0.09) 0px 2px 4px 0px inset'}}>
+<footer className="bg-redish dark:bg-redish border-t mt-2" style={{boxShadow:'rgba(0, 0, 0, 0.09) 0px 2px 4px 0px inset'}}>
     <div className="mx-auto w-full max-w-screen-xl pt-6 lg:py-6">
         <div className="md:flex md:justify-between">
           <div className="mb-6 md:mb-0">
